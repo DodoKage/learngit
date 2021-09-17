@@ -6,5 +6,5 @@ Git is free software.
 ​    
 
 ```
-Creating a new branch is quick f simple.
+Creating a new branch is quick fe simple.
 ```
